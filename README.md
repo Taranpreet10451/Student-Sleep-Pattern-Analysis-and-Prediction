@@ -78,9 +78,9 @@ The following machine learning models are used, and their performance is compare
 The XGBoost Classifier performed the best with:
 - Accuracy: 30%
 - Best Parameters:
- - learning_rate: 0.2
- - max_depth: 7
- - n_estimators: 100
+  - learning_rate: 0.2
+  - max_depth: 7
+  - n_estimators: 100
 
 ## Recommendations for Improvement
 - Address Class Imbalance: Improve handling of class imbalance using ensemble methods or more advanced resampling techniques.
